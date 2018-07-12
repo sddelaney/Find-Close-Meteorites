@@ -6,4 +6,11 @@ Find them all
 
 This project requires Python
 
-`python3 find_meteors.py`
+First install pipenv
+
+```
+
+pipenv install
+pipenv run "python find_meteors.py"
+
+```
